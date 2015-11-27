@@ -10,3 +10,5 @@ ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on t
 HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 
 SUGGEST IMPROVEMENTS TO EACH PLOT!
+
+![Alt text](anita.png)
